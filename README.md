@@ -194,7 +194,7 @@ Go to `Kernel → Restart & Run All`, or run each cell sequentially from top to 
 Once Step 12 executes, the Gradio interface will launch at:
 
 ```
-http://127.0.0.1:7860
+http://127.0.0.1:7862
 ```
 
 The notebook will also embed the interface inline within the Jupyter output.
