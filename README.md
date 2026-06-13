@@ -232,7 +232,7 @@ The interface includes 8 pre-built quick-access questions:
 
 ### Gradio Chatbot Interface
 
-The Gradio UI launched at `http://127.0.0.1:7860` with a professional dark theme, Nestlé branding, and an embedded conversation panel.
+The Gradio UI launched at `http://127.0.0.1:7862` with a professional dark theme, Nestlé branding, and an embedded conversation panel.
 
 > *(Screenshots available in the project submission documents.)*
 
