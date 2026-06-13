@@ -155,7 +155,7 @@ Open the notebook and locate **Step 2: Configure OpenAI API Key**.
 Replace the placeholder with your actual OpenAI API key:
 
 ```python
-os_env.environ["OPENAI_API_KEY"] = "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"
+os_env.environ["OPENAI_API_KEY"] = "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"
 ```
 
 > **Security Warning:** Never commit your API key to a public repository. Consider using a `.env` file with `python-dotenv` for safer key management:
