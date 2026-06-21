@@ -211,7 +211,7 @@ This project is intended for educational and demonstration purposes. Nestlé's H
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - [LangChain](https://www.langchain.com/) for the RAG orchestration framework
 - [OpenAI](https://platform.openai.com/) for the language model and embeddings
