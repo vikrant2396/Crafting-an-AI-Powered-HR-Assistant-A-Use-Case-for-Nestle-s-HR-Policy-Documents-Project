@@ -149,7 +149,7 @@ This project requires an OpenAI API key. **The key is never hardcoded** — you'
 
 ```python
 import getpass, os
-os.environ["OPENAI_API_KEY"] = getpass.getpass("Enter your OpenAI API key: ")
+os.environ["OPENAI_API_KEY"] = getpass.getpass("Enter your OpenAI API key: )
 ```
 
 You can generate a key from the [OpenAI API dashboard](https://platform.openai.com/api-keys).
